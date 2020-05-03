@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './PizzaImage.module.css';
+import classes from './PizzaImage.css';
 
 import PizzaImage from '../../assets/スクリーンショット 2020-04-25 10.58.49.png';
 
